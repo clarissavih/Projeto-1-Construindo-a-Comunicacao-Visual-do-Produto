@@ -1,5 +1,7 @@
 # Projeto-1-Construindo-a-Comunicacao-Visual-do-Produto
 
+ALUNA: Clarissa Vitoria Rodrigues Siqueira
+
 # Portfólio "Poorflix - Identidade Visual"
 
 Este portfólio apresenta as escolhas de cores, tipografia e elementos visuais da marca "Poorflix", uma proposta acessível e bem-humorada inspirada na estética do entretenimento digital.
